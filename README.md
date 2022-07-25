@@ -1,1 +1,13 @@
 # Stock_Market_Analysis
+
+This is my portfolio project. I'll be analyzing data from stock market, particularly market index(Nifty50 and Sensex). I'll be using
+commonly used libraries in data science like `Numpy`, `Pandas`, `Matplotlib`, `Seaborn`, `Statsmodels` and `Sklearn`. I'll be importing stock information, visualize different aspects of it, and finally will look at a few ways of analyzing the risk of a stock, based on its previous performance history. I'll also be predicting future stock prices through a **Monte Carlo Method** and **Linear Regression** <br><br>
+I'll be answering the following questions along the way:
+1. What was the change in price of the stock over time?
+2. What was the daily return of the stock on average?
+3. What was the moving average of the various stocks?
+4. What was the correlation between different stocks' closing prices?
+4. What was the correlation between different stocks' daily returns?
+5. How much value do we put at risk by investing in a particular stock?
+6. How can we attempt to predict future stock behavior?
+
